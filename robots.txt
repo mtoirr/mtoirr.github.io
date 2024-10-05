@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mtoirr.github.io/zMW/sitemap.zMW.gz
